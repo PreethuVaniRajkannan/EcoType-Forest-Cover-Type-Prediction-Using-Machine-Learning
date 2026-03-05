@@ -1,0 +1,2 @@
+# EcoType-Forest-Cover-Type-Prediction-Using-Machine-Learning
+A machine learning classification model was created for predicting the type of forest cover in a given geographical area based on cartographic variables like elevation, soil type, slope, and wilderness area information
